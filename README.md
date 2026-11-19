@@ -1,6 +1,7 @@
 # Odin Recipes Project
 
 ### This project is mainly about creating a very simple webpage using most of the skills I've learnt during my lesson to polish those skills, solidify them, and to see how would coding look like in real life.
+
 * Skills I've gained so far, and have been used throughout this project:
   - [x] Being comfortable using another operating system, other than Windows.
 
